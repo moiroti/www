@@ -1,0 +1,358 @@
+<html>
+<head>
+    <title>MMVE 2011 - The 5th International Workshop on Massively Multiuser Virtual Environments</title>
+</head>
+<body>
+    <div align="center">
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="80%" border="0" bordercolor="#000000">
+            <tr height="0">
+                <td align="center">
+                    <p>
+                        <font size="10"><b>MMVE 2012</b></font>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="0" bordercolor="#000000">
+            <tr height="0">
+                <td align="center">
+                    The 5th International Workshop on Massively Multiuser Virtual Environments <br>at<br><a href="http://have2012.ieee-ims.org/">IEEE International Symposium on Audio-Visual Environments and Games (HAVE 2012)</a>
+					<br>October 08-09, 2012, Munich, Germany
+                </td>
+            </tr>
+        </table>
+
+        <a name="top"></a>
+        <p>
+            [ <a href="#news">News</a> | <a href="#intro">Introduction</a> 
+            	| <a href="#schedule">Schedule</a> 
+            	| <a href="#cfp">Topics</a> 
+            	| <a href="#subm">Submission</a> 
+		| <a href="#dates">Important Dates</a> 
+		| <a href="#organizers">Organizers & TPC</a> 
+		| <a href="http://have2012.ieee-ims.org/">IEEE HAVE 2012</a>
+		| Call for Papers (<a href="cfp-mmve12.txt">TXT</a>)(<a href="cfp-mmve12.pdf">PDF</a>)
+            ]
+        </p>
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr height="0">
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="news"></a>News</font></b></p>
+                                </td>
+                            </tr>
+							<tr>
+								<td><!--
+									<p>
+									<b>Schedule</a></b><br />
+									The workshop schedule is now online on this <a href="#schedule">page</a>. The full programm for HAVE and MMVE 2011 can be downloaded <a href="HAVE-MMVE2011-Program.pdf">here</a>.
+									</p>
+								
+									<p>
+									<b style="color: #ff0000"><blink>CONFERENCE LOCATION CHANGED!!</blink></b><br />
+									The city of HAVE 2011 (and therefore also the attached workshops) has been changed and it will be taking place at Qinhuangdao City (Hebei, China). The hotel for the workshops is <a href=http://www.grandhotelqinhuang.com/>Hotel Qinhuang</a>, which is a brand-new five-stars hotel. As it is a new hotel, the website in English is not ready yet. More information and details on this matter will be avaialble a bit later.
+									</p>
+									<p>
+									<b>Posters/Demos</a></b><br />
+									MMVE11 accepts this year additionally posters or demos as 2 page extended abstract submissions.
+									</p>
+									
+							    	<p>
+									<b>Proceedings</a></b><br />
+									All accepted MMVE papers will be indexed in IEEE Xplore, included as part of IEEE HAVE 2011 proceedings. Thanks to HAVE 2011 organizers.
+									</p>-->                                     
+                                </td>
+							</tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp; 
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr height="0">
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="intro"></a>Introduction</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Massively Multiuser Virtual Environment (MMVE) systems are spatial simulations that provide real-time human interactions among thousands to millions of concurrent users. MMVEs have experienced phenomenal growth in recent years in the form of massively multiplayer online games (MMOGs) such as World of Warcraft and Lineage, and social communities such as Second Life and Hobbo Hotel. The technical aspect of designing, developing, and deploying them is highly interdisciplinary and involves experts from many domains, e.g., graphics, networking, protocol and architecture designs. The MMVE workshop intends to provide a forum for both academic researchers and industry developers to investigate the architectural and system support for MMVEs. By gathering experts under one roof, we wish to discuss their findings, incite collaborations, and move the state of the art forward.  
+                                    <div align="right"><a href="#top">Top</a></div>
+				                        </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="schedule"></a>Workshop Schedule (Tbd.)</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    
+                                    
+					            </td>
+					        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr height="0">
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="cfp"></a>Topics</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                The workshop seeks to provide a forum for researchers and practitioners in the field, and will encourage discussions based on the 
+                                presented papers to identify current and future research topics. We are particularly interested in raising discussions about the following questions:
+				<ul>
+					<li>How is MMVE technology developed for games reused for distributed virtual environment in other domains, such as training? 
+					<li>How do the life-cycles and payment models of games integrated into social networking systems (Facebook etc) influence game development?
+					<li>How can MMVE technology leverage parallel computing technology, including multicore (Cell, GPU), tight clustering (transactional memory, distributed shared memory) and distributed systems (P2P, Clouds)?
+				</ul>
+				More specifically, the workshop addresses the following MMVE topics:
+                                <ol>
+					<li>Scalability, the ability to handle at least thousands of concurrent users, interacting via Internet. 
+					<li>Interactivity, how to provide responsive, near real time interactions despite latency and jitter.
+					<li>Consistency, providing consistent views for users, despite the inherent delay in state updates.
+					<li>Persistence, the ability to save and access the world states despite disconnections and failures.
+					<li>Security and privacy, distributed algorithms that allow secure interactions and privacy guarantees.
+					<li>Interoperability, integration of multiple systems or providers with common protocols or clients.
+					<li>Bandwidth restricted (mobile) devices, the integration of mobile devices for nomadic systems. 
+					<li>Self-organizing architectures, load balancing and fault tolerance without manual configurations. 
+					<li>Content streaming, voice communication and 3D content streaming, incremental deployment and updating.
+					<li>Implementation issues, novel approaches to address development challenges.
+                                    </ol>
+                                    <div align="right"><a href="#top">Top</a></div>
+				                        </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr height="0">
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="subm"></a>Submission Guidelines</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+				                            Paper submissions must cover one of the topics listed above, or a closely-related one.
+				                            We solicit full size papers (6 pages long) as well as posters (2 pages extended abstracts).
+											All submissions <b>must be blinded</b>, must be original prior unpublished work and not 
+											under review elsewhere. All submissions will be peer-reviewed (double-blind) and selected based 
+											on their originality, merit, and relevance to the workshop.
+				                            
+											
+				                            Research papers must be original prior unpublished work and not under review 
+				                            elsewhere. All submissions will be peer-reviewed (double blind) and selected based on their 
+				                            originality, merit, and relevance to the workshop.
+				                            
+											
+				                            <p>
+				                            		Submissions are handled online with our 
+				                            		electronic submission system. A link to the submission system will become available here shortly.
+				                            </p>
+											
+											<!--
+				                            <p>
+				                            		Submission is closed.
+				                            </p>
+											-->
+                                    <p>
+                                        Accepted papers and demos must be presented at the workshop. All accepted MMVE papers will be
+										indexed in IEEE Xplore, included as part of IEEE HAVE 2011 proceedings.
+                                        If you have any questions, please email us at mmve@peers-at-play.org.
+                                    </p>
+                                    <div align="right">
+                                        <a href="#top">Top</a></div>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="dates"></a>Important Dates</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div align="center">
+                                        <table cellspacing="0" cellpadding="10" width="70%" border="0">
+                                            <tr>
+                                                <td>Submission Deadline:</td>
+                                                <td><b>July 1st, 2012</b></td>
+                                            </tr>
+                                            <tr>
+                                                <td>Acceptance Notification:</td>
+                                                <td>August 1st, 2012</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Camera Ready Version:</td>
+                                                <td>September 1st, 2012</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Workshop Date:</td>
+                                                <td><b>October 08-09th, 2012</b></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div align="right">
+                                        <a href="#top">Top</a></div>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="organizers"></a>Organizers</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <ul>
+                                        <li><a href="http://mmnet.iis.sinica.edu.tw/~syhu/">Shun-Yun Hu</a>, 
+                                            Academia Sinica, Taiwan </li>
+										<li><a href="http://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>, 
+                                            National University of Singapore, Singapore</li>
+										<li><a href="http://becker.bwl.uni-mannheim.de/9.html">Gregor Schiele</a>, 
+                                            University of Mannheim, Germany</li>
+										<li><a href="http://www.site.uottawa.ca/~shervin/">Shervin Shirmohammadi</a>,
+											University of Ottawa, Canada</li>
+                                        <li><a href="http://www.uc.uni-kassel.de">
+                                            Arno Wacker</a>, University of Kassel, Germany</li>
+                                    </ul>
+									<p><b>TPC Chair:</b></p>
+                                    <ul>
+                                        <li><a href="http://heim.ifi.uio.no/~griff/">Carsten Griwodz</a>, 
+                                            University of Oslo, Norway</li>
+                                    </ul>
+									
+                                    <p><b>Publicity Co-Chairs:</b></p>
+                                    <ul>
+                                        <li>Herman Engelbrecht, University of Stellenbosch, South Africa</li>
+										<li>Jin-Yuan Jia, Tongji University, China</li>
+										<li>Peter Quax, Hasselt University, Belgium</li>
+                                    </ul>
+                                    <div align="right">
+                                        <a href="#top">Top</a></div>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="committee"></a>Technical Program Committee (still inviting)</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+									<ul>
+										<li>Maha Abdallah, University of Paris VI, France</li>
+										<li>Jean Botev, University of Luxembourg</li>
+										<!-- <li>Christian Bouville, IRISA, France</li> -->            
+										<!-- <li>Romain Cavagna, University of Paris VI, France</li> -->
+										<li>Kuan-Ta Chen, Academia Sinica, Taiwan</li>
+										<li>Herman Engelbrecht, University of Stellenbosch, South Africa</li>
+										<!-- <li>Abdennour El Rhalibi, Liverpool John Moores University, UK</li> -->
+										<!-- <li>Markus Esch, University of Luxembourg, Luxembourg</li> -->
+										<!-- <li>Sebastian Holzapfel, University of Duisburg-Essen, Germany</li> -->
+										<li>Stefano Ferretti, Univ. Bologna, Italy</li>
+										<li>Alexandru Iosup, TU Delft, Netherland</li>
+										<!-- <li>Jehn-Ruey Jiang, National Central University, Taiwan</li> -->
+										<!-- <li>Huaiyu (Kitty) Liu, Intel Labs, USA</li> -->
+										<!-- <li>Jauvane C. Oliveira, LNCC, Brazil</li> -->
+										<li>Kjetil Raaen, NITH, Norway</li>
+										<!-- <li>Laura Ricci, University of Pisa, Italy </li> -->
+										<!-- <li>Ingo Scholtes, University of Trier, Germany</li> -->
+										<!-- <li>Gwendal Simon, TELECOM Bretagne, France</li> -->
+										<li>Richard Suselbeck, Univ. Mannheim, Germany</li>
+										<!-- <li>Shinichi Ueshima, Kansai University, Japan</li> -->
+										<!-- <li>Matteo Varvello, Alcatel-Lucent (Holmdel, NJ), USA</li> -->
+										<!-- <li>Shinya Yamamoto, Tokyo University of Science, Yamaguchi, Japan</li> -->
+										<li>Cristina Videira Lopes, UC Irvine, USA</li>
+										<!-- <li>Knut-Helge Vik, Simula Research, Norway</li> -->
+										<!-- <li>Marcos Vaz Salles, Cornell University, NY, USA</li> -->
+										<li>Suiping Zhou, Teesside University, UK</li>
+										<li>Roger Zimmermann, National University of Singapore, Singapore</li>
+
+			
+									</ul>
+                                  <div align="right"><a href="#top">Top</a></div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

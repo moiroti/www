@@ -1,0 +1,462 @@
+<html>
+<head>
+    <title>MMVE 2010 - The 3rd International Workshop on Massively Multiuser Virtual Environments</title>
+</head>
+<body>
+    <div align="center">
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="80%" border="0" bordercolor="#000000">
+            <tr height="0">
+                <td align="center">
+                    <p>
+                        <font size="10"><b>MMVE 2010</b></font>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="0" bordercolor="#000000">
+            <tr height="0">
+                <td align="center">
+                    The 3rd International Workshop on Massively Multiuser Virtual Environments <br>at<br><a href="http://ace2010.ntpu.edu.tw/">ACM International Conference on Advances in Computer Entertainment Technology</a>
+					<br>17-19 November, 2010, Taipei, Taiwan
+                </td>
+            </tr>
+        </table>
+
+        <a name="top"></a>
+        <p>
+            [ <a href="#news">News</a> | <a href="#intro">Introduction</a> 
+            	| <a href="#schedule">Schedule</a> 
+            	| <a href="#cfp">Topics</a> 
+            	| <a href="#subm">Submission</a> 
+		| <a href="#dates">Important Dates</a> 
+		| <a href="#organizers">Organizers & TPC</a> 
+		| <a href="http://ace2010.ntpu.edu.tw/">ACM ACE</a>
+		| Call for Papers (<a href="cfp-mmve10.txt">TXT</a>)(<a href="cfp-mmve10.pdf">PDF</a>)
+            ]
+        </p>
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr height="0">
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="news"></a>News</font></b></p>
+                                </td>
+                            </tr>
+							<tr>
+														<td>
+							    	<p>
+								<b>Proceedings</a></b><br />
+								All MMVE papers will be included in NetGames 2010 proceedings (indexed by IEEE Xplore & ACM DL), thanks to NetGames organizers.
+								</p>                                     
+                                </td>
+							</tr>
+							<tr>
+														<td>
+							    	<p>
+								<b>Photos from the event</a></b><br />
+								The event has passed and we had a good time. Some photos from the event are <a href="http://picasaweb.google.com/erinerintu/20101117ACENetGamesMMVE2010#">here</a>.
+								</p>                                     
+                                </td>
+							</tr>
+							<tr>
+							<td>
+							    	<p>
+								<b>MMVE Participants Survey</a></b><br />
+								We are always trying to improve MMVE - both for physical and virtual (remote) participants. To do so, we ask our participants to fill in a short 
+								survey. You can find the survey <a href="https://spreadsheets.google.com/viewform?formkey=dEVib2ptZ20tVWwzUUxnNUZyY2l6RFE6MQ&theme=0AX42CRMsmRFbUy0zODExOWI0Yi0yMTExLTRkMzYtOGUyZi1iNDZiMTFjZmMxY2Q&ifq"> here</a>. Thank you!
+								</p>                                     
+                                </td>
+							    
+							</tr>
+							<tr>
+							<td>
+							    	<p>
+								<b>MMVE Remote Participation</a></b><br />
+								MMVE is experimenting this year with online remote participation using Web.Alive. To join us go to: 
+								<a href="http://ec2-184-72-191-233.compute-1.amazonaws.com/2190/html/indexAuth.html"> 
+								http://ec2-184-72-191-233.compute-1.amazonaws.com/2190/html/indexAuth.html</a>.
+								</p>                                     
+                                </td>
+							    
+							</tr>
+							<tr>
+							<td>
+							    	<p>
+								<b>MMVE to merge with <a href="http://netgames2010.ntpu.edu.tw/index.html">NetGames 2010</a></b><br />
+								Due to the budget constrain of this year's ACE organizers, MMVE is now being merged as a session of the NetGames 2010 workshop, and the workshop date will change from Nov. 19 to Nov. 17, please see the detailed <a href="http://netgames2010.ntpu.edu.tw/detail.html">NetGames</a> program.<br />
+<br />
+As part of the arrangement, the good news is that MMVE participants will also be able to participate fully in NetGames' second day events, with access to keynote and all paper sessions. Inclusion of MMVE papers into NetGames proceedings is also now being negotiated. We will let you know if the proposal will materialize.
+								</p>                                     
+                                </td>
+							    
+							</tr>
+                            <tr>
+								<td>
+									<p>
+									<b>MMVE10 at Twitter</b><br />
+									You can follow news on the MMVE 2010 workshop on twitter. 
+									Go to <a href="http://twitter.com/MMVE10">http://twitter.com/MMVE10</a> to join.
+									</p>                                     
+									<div align="right"><a href="#top">Top</a></div>
+                                </td> 
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp; 
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr height="0">
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="intro"></a>Introduction</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    Massively Multiuser Virtual Environment (MMVE) systems are spatial simulations that provide real-time human interactions among thousands to millions of concurrent users. MMVEs have experienced phenomenal growth in recent years in the form of massively multiplayer online games (MMOGs) such as World of Warcraft and Lineage, and social communities such as Second Life and Hobbo Hotel. The technical aspect of designing, developing, and deploying them is highly interdisciplinary and involves experts from many domains, e.g., graphics, networking, protocol and architecture designs. The MMVE workshop intends to provide a forum for both academic researchers and industry developers to investigate the architectural and system support for MMVEs. By gathering experts under one roof, we wish to discuss their findings, incite collaborations, and move the state of the art forward.  
+                                    <div align="right"><a href="#top">Top</a></div>
+				                        </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="schedule"></a>Workshop Schedule (Session at NetGames 2010: 4:00pm - 6:00pm) - Chair: Richard S&uuml;selbeck</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                		<table>
+										<!--
+										<tr><td width=150pt>3:30pm - 5:30pm</td><td><b>MMVE session</b></td></tr>
+										<tr>
+											<td></td><td>
+											Session Chair: tbd<br>
+											</td>
+										</tr>
+										-->
+			        					<tr>
+											<td width=150pt valign=top>4:00pm - 4:30pm</td>
+											<td>
+												<b>Integration of P2P and Clouds to Support Massively Multiuser Virtual Environments</b> [<a href="papers/mmve2010_submission_3.pdf">paper</a>] [<a href="slides/MMVE1_Emanuele2010.pdf">slides</a>] <br />
+												by Emanuele Carlini (IMT, Lucca, Italy, CNR-ISTI, Italy), Massimo Coppola (CNR-ISTI, Italy) and Laura Ricci (University of Pisa, Italy)
+														<p>
+														Massively Multiuser Virtual Environments (MMVEs) are attracting millions of players from  all  over the  world.  Currently  used  Client/Server  infrastructures  and technologies are reaching their limits of flexibility and scalability.<br />
+<br />
+We  propose  an  approach  that  combines  the  technological advantages of two different paradigms, namely P2P networking and  Cloud Computing.  Our  proposal  leverages  known  P2P techniques like Virtual Nodes and consistent hashing, as well as separate overlays for different purposes, e.g. interest and object management.<br />
+<br />
+We propose combining these techniques with the definition of a specific role in the overlay for Cloud-based, trusted resources. This enables the distribution of the MMVE on top of a mix of Cloud and user resources. The solution outlined allows building key-value distributed storage systems that can resize at run-time (elasticity) and provide scalability and load balancing features to the MMVE platform.
+														</p>
+														<br />
+											</td>
+										</tr>
+										
+										
+										<tr>
+											<td width=150pt valign=top>4:30pm - 5:00pm</td>
+											<td>
+												<b>Time Management for Virtual Worlds based on Constrained Communication Model</b> [<a href="papers/mmve2010_submission_5.pdf">paper</a>] [<a href="slides/MMVE2_Farooq2010.pdf">slides</a>]<br />
+												by Umar Farooq and John Glauert (University of East Anglia, U.K.)
+														<p>
+														Time Management (TM) is an integral part of the parallel  and  distributed  systems  that  maintains  the  temporal order  of  events  in  a  system.  In  this  paper,  we  present  a decentralised TM approach using a constrained communication model based on the inherent properties of virtual worlds. The proposed method uses a flat communication model and a region synchronises itself with a set of regions that share boundaries with  it.  It  is  evaluated  with  the  help  of  a  simple  simulation model and compared with non-synchronised and decentralised scenarios.  The  simulation  results  show  that  it  maintains  local causality constraint and reduces communication of messages over the network. It is potentially more scalable and minimises longer delays and complexity compared with hierarchical strategies with multiple levels.
+														</p>
+														<br />
+											</td>
+										</tr>
+										
+										
+										<tr>
+											<td width=150pt valign=top>5:00pm - 5:30pm</td>
+											<td>
+												<b>Distributed Scene Graph to Enable Thousands of Interacting Users in a Virtual Environment</b> [<a href="papers/mmve2010_submission_7.pdf">paper</a>] [<a href="slides/MMVE3_Lake2010.pdf">slides</a>]<br />
+												by Dan Lake, Mic Bowman, Huaiyu Liu (Intel Labs, U.S.A.)
+														<p>
+														Virtual  environments  are  currently limited to no more than a hundred interacting users by the simulator-centric server architectures used for many of these applications. There are  some  potential  new  usages  such  as  virtual  concerts  and sporting events involving  hundreds or thousands of users and we seek to enable these exciting new applications. We propose a  distributed  scene  graph  (DSG)  architecture  which  enables massive  scaling  of  scene  complexity  and  participants  with  the addition of hardware. A prototype implementation of the DSG components to manage client communications demonstrates an order  of  magnitude  increase  in  the  number  of  concurrent users. We present the design of this component within the DSG architecture,  prototype  implementation  based  on  an  open source virtual environment server and our experimental setup, workloads and results.
+														</p>
+														<br />
+											</td>
+										</tr>
+										
+										
+										<tr>
+											<td width=150pt valign=top>5:30pm - 6:00pm</td>
+											<td>
+												<b>Progressive Cache Replacement for Massive Peer-to-Peer WebVR Worlds</b> [<a href="papers/mmve2010_submission_4.pdf">paper</a>] [<a href="slides/MMVE4_Wang2010.pdf">slides</a>]<br />
+												by Wei Wang, Jin-Yuan Jia, Yang Yu (Tongji University, China) Shun-Yun Hu (Academia Sinica, Taiwan, R.O.C.)
+
+														<p>
+														As  the  popularity  of  WebVR  applications  rises  in recent years, a great disparity exists between the huge 3D content on  servers  and  the  limited  cache  capacity  on  clients.  In  order to alleviate server loading, peer-to-peer (P2P)-based 3D content distribution  has  been  proposed  recently.  However,  given  the limited  cache  sizes  at  clients,  how  to  maintain  and  replace  the cache content effectively becomes an important issue. We present a progressive scene replacement mechanism (PSRM) in this paper to support interactive walkthrough in P2P-based large-scale WebVR worlds. First, we define a new metric called preservation degree, based  on  both  the  visual  attention  paid  by  the  user  and  the contentís potential relevance for sharing. Second, cached objects are  replaced  progressively  with  ascending  order  in  terms  of their preservation degrees. Experimental results have shown that PSRM enables users with limited cache to walkthrough a large-scale  WebVR  world  with  high  visual  quality;  while  download requests handled by the servers are reduced significantly.
+														</p>
+											</td>
+										</tr>
+										
+										
+										</table>
+								<div align="right"><a href="#top">Top</a></div>
+								</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+                                    
+                                    
+					                      </td>
+					                  </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr height="0">
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="cfp"></a>Topics</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                The workshop seeks to provide a forum for researchers and practitioners in the field, and will encourage discussions based on the 
+                                presented papers to identify current and future research topics. Some key and emerging issues we would especially like to solicit are:
+				<ul>
+					<li>The integration of MMVE with social networking systems such as Facebook and Instant Messengers. 
+					<li>The adoption of parallel techniques (e.g., GPU, P2P, household set-top boxes) to increase scale.
+					<li>Interoperable MMVE standards and protocols based on observations or abstractions of existing systems.
+				</ul>
+				More specifically, the workshop addresses the following MMVE topics:
+                                <ol>
+					<li>Scalability, the ability to handle at least thousands of concurrent users, interacting via Internet. 
+					<li>Interactivity, how to provide responsive, near real time interactions despite latency and jitter.
+					<li>Consistency, providing consistent views for users, despite the inherent delay in state updates.
+					<li>Persistency, the ability to save and access the world states despite disconnections and failures.
+					<li>Security and privacy, distributed algorithms that allow secure interactions and privacy guarantees.
+					<li>Interoperability, integration of multiple systems or providers with common protocols or clients.
+					<li>Bandwidth restricted (mobile) devices, the integration of mobile devices for nomadic systems. 
+					<li>Self-organizing architectures, load balancing and fault tolerance without manual configurations. 
+					<li>Content streaming, voice communication and 3D content streaming.
+					<li>Implementation issues, novel approaches to effectively manage the complexity of development.
+                                    </ol>
+                                    <div align="right"><a href="#top">Top</a></div>
+				                        </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr height="0">
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="subm"></a>Submission Guidelines</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+				                            Paper submissions must cover one of the topics listed above, or a closely-related one.
+				                            Submitted papers must be <b>5-6 pages long</b> and 
+				                            <!--
+				                            , use the <b>IEEE proceedings format</b>  
+				                            -->
+				                            <b>must be blinded</b>. 
+				                            <!--
+				                             Submissions that deviate from these guidelines will be rejected without consideration.
+				                            -->
+				                            Research papers must be original prior unpublished work and not under review 
+				                            elsewhere. All submissions will be peer-reviewed (double blind) and selected based on their 
+				                            originality, merit, and relevance to the workshop.
+				                            <!--
+				                            <p>
+				                            		Submissions are handled online with our 
+				                            		electronic submission system. A link to the submission system will become available here shortly.
+				                            </p>
+											-->
+				                            <p>
+				                            		Submissions are handled online with the 
+				                            		electronic submission system EasyChair. To register / submit a paper, click here:
+				                            </p>
+				                            <p>
+				                            		<b>
+				                            			Paper submission is closed.
+				                            		</b>
+				                            </p>
+                                    <p>
+                                        All MMVE papers will be included in NetGames 2010 proceedings (indexed by IEEE Xplore & ACM DL), thanks to NetGames organizers.
+
+                                        If you have any questions, please email us at mmve@peers-at-play.org.
+                                    </p>
+                                    <div align="right">
+                                        <a href="#top">Top</a></div>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="dates"></a>Important Dates</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div align="center">
+                                        <table cellspacing="0" cellpadding="10" width="70%" border="0">
+                                            <tr>
+                                                <td>Submission Deadline:</td>
+                                                <td><strike>August 30th, 2010</strike> <strike>September 6th, 2010</strike> <b>September 13th, 2010</b> (extended)</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Acceptance Notification:</td>
+                                                <td>October 4th, 2010</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Camera Ready Version:</td>
+                                                <td>October 11th, 2010</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Workshop Date:</td>
+                                                <td><b>November 17th, 2010</b> (updated!)</td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div align="right">
+                                        <a href="#top">Top</a></div>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="organizers"></a>Organizers</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                   <p><b>TPC Co-Chairs:</b></p>
+                                    <ul>
+                                        <li><a href="http://www.site.uottawa.ca/~shervin/">Shervin Shirmohammadi</a>, University of Ottawa, Canada</li>
+                                        <li>Jeffrey Kesselman, Blue fang Games, USA</li>
+                                    </ul>                                    
+                                    <p><b>Steering Committee:</b></p>
+                                    <ul>
+                                        <li><a href="http://becker.bwl.uni-mannheim.de/9.html">Gregor Schiele</a>, 
+                                            University of Mannheim, Germany</li>
+                                        <li><a href="http://mmnet.iis.sinica.edu.tw/~syhu/">Shun-Yun Hu</a>, 
+                                            Academia Sinica, Taiwan </li>
+                                        <li><a href="http://www.vs.uni-due.de/index.php?view=article&id=70&option=com_content">
+                                            Arno Wacker</a>, University of Duisburg-Essen, Germany</li>
+                                        <li><a href="http://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>, 
+                                            National University of Singapore, Singapore</li>
+                                    </ul>
+                                    
+                                    <div align="right">
+                                        <a href="#top">Top</a></div>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        &nbsp;
+        <table cellspacing="0" cellpadding="0" width="65%" border="1" bordercolor="#000000">
+            <tr>
+                <td>
+                    <table cellspacing="0" cellpadding="6" width="100%" border="0" bordercolor="#111111">
+                        <tbody>
+                            <tr>
+                                <td bgcolor="#3399FF">
+                                    <p align="center">
+                                        <b><a name="committee"></a>Technical Program Committee (prelim.)</font></b></p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+									<ul>
+										<li>Maha Abdallah, University of Paris VI, France</li>
+										<li>Dewan T. Ahmed, University of Ottawa, Canada</li>
+										<li>Christian Bouville, IRISA, France</li>
+										<li>Romain Cavagna, University of Paris VI, France</li>
+										<li>Kuan-Ta Chen, Academia Sinica, Taiwan</li>
+										<li>Chris GauthierDickey, University of Denver, USA</li>
+										<li>Carsten Griwodz, Simula Research, Norway</li>
+										<li>Behnoosh Hariri, University of Ottawa, Canada</li>
+										<li>Aaron Harwood, University of Melbourne, Australia</li>
+										<li>Sebastian Holzapfel, University of Duisburg-Essen, Germany</li>
+										<li>Jehn-Ruey Jiang, National Central University, Taiwan</li>
+										<li>Stephan Krause, University of Karlsruhe, Germany</li>
+										<li>Jay Lorch, Microsoft Research, USA</li>
+										<li>Jauvane C. Oliveira, LNCC, Brazil</li>
+										<li>Peter Quax, Hasselt University, Belgium</li>
+										<li>Laura Ricci, University of Pisa, Italy</li>
+										<li>Simon Rieche, RWTH Aachen University, Germany</li>
+										<li>Ingo Scholtes, University of Trier, Germany</li>
+										<li>Gwendal Simon, TELECOM Bretagne, France</li>
+										<li>Richard Sueselbeck, Univ. Mannheim, Germany</li>
+										<li>Matteo Varvello, Alcatel-Lucent, Holmdel, NJ, USA</li>
+										<li>Shinya Yamamoto, Tokyo University of Science, Yamaguchi, Japan</li>
+										<li>Roger Zimmermann, National University of Singapore, Singapore</li>
+			
+									</ul>
+                                  <div align="right"><a href="#top">Top</a></div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
