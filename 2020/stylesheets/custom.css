@@ -1,0 +1,240 @@
+/*
+/   name           Favourite
+/   version        4.2
+/   description    Responsive and customizable Joomla!3 template
+/   demo           http://demo.favthemes.com/favourite
+/   author         FavThemes
+/   author URL     https://www.favthemes.com
+/   copyright      Copyright (C) 2012-2018 FavThemes.com. All Rights Reserved.
+/   license        Licensed under GNU/GPLv3 (http://www.gnu.org/licenses/gpl-3.0.html)
+*/
+
+/*//////////////////////////////////////////////////////////////////////////////
+///
+///  custom style
+///
+//////////////////////////////////////////////////////////////////////////////*/
+
+  .favnav ul.nav > li > a,
+  .favnav ul.nav > li > .nav-header,
+  .favnav ul.nav ul.nav-child a,
+  .favnav ul.nav ul.nav-child .nav-header,
+  ul.menufavth-horizontal li a,
+  ul.menufavth-horizontal li .nav-header {
+    text-transform: uppercase;
+  }
+  .favnav ul.nav > li > a,
+  .favnav ul.nav > li > .nav-header,
+  .favnav ul.nav ul.nav-child a,
+  .favnav ul.nav ul.nav-child .nav-header,
+  ul.menufavth-horizontal li a,
+  ul.menufavth-horizontal li .nav-header {
+    font-family: 'Lato', sans-serif;
+  }
+  .favnav ul.nav > li > a,
+  .favnav ul.nav > li > .nav-header,
+  .favnav ul.nav ul.nav-child a,
+  .favnav ul.nav ul.nav-child .nav-header,
+  ul.menufavth-horizontal li a,
+  ul.menufavth-horizontal li .nav-header {
+    font-weight: 700;
+  }
+  .favnav ul.nav > li > a,
+  .favnav ul.nav > li > .nav-header,
+  .favnav ul.nav ul.nav-child a,
+  .favnav ul.nav ul.nav-child .nav-header,
+  ul.menufavth-horizontal li a,
+  ul.menufavth-horizontal li .nav-header {
+    font-style: normal;
+  }
+  .fav-container h3:first-of-type,
+  .fav-container .page-header h2,
+  .fav-container h2.item-title,
+  .fav-container .hikashop_product_page h1 {
+    text-align: left;
+  }
+  .fav-container h3:first-of-type,
+  .fav-container .page-header h2,
+  .fav-container h2.item-title,
+  .fav-container .hikashop_product_page h1 {
+    text-transform: uppercase;
+  }
+  .fav-container h1,
+  .fav-container h2,
+  .fav-container h3,
+  .fav-container h4,
+  .fav-container h5,
+  .fav-container h6,
+  .fav-container legend {
+    font-family: 'Lato', sans-serif;
+  }
+  .fav-container h1,
+  .fav-container h2,
+  .fav-container h3,
+  .fav-container h4,
+  .fav-container h5,
+  .fav-container h6,
+  .fav-container legend {
+    font-weight: 700;
+  }
+  .fav-container h1,
+  .fav-container h2,
+  .fav-container h3,
+  .fav-container h4,
+  .fav-container h5,
+  .fav-container h6,
+  .fav-container legend {
+    font-style: normal;
+  }
+  #fav-offlinewrap {
+    background-repeat: no-repeat; background-attachment: fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;;
+  }
+  body {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-topbarwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-slidewrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-slidewrap.fav-module-block-color {
+    background-color: #F0F0F0;
+  }
+  #fav-introwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-breadcrumbswrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-leadwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-promowrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-primewrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-showcasewrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-featurewrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-focuswrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-portfoliowrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-screenwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-topwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-maintopwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-mainbottomwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-bottomwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-notewrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-basewrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-blockwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-userwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  #fav-footerwrap.fav-module-block-clear {
+    background-repeat: repeat; background-attachment: initial; -webkit-background-size: auto; -moz-background-size: auto; -o-background-size: auto; background-size: auto;;
+  }
+  .fav-container a.text-logo,
+  .fav-container a.text-logo:hover,
+  .fav-container a.text-logo:focus {
+    color: #00BCD4;
+  }
+  .fav-container a.text-logo {
+    font-size: 36px;
+  }
+  .fav-container a.text-logo,
+  #fav-logo h1 {
+    font-family: 'Chakra Petch', sans-serif;
+  }
+  .fav-container a.text-logo,
+  #fav-logo h1 {
+    font-weight: 700;
+  }
+  .fav-container a.text-logo,
+  #fav-logo h1 {
+    font-style: normal;
+  }
+  .fav-container a.text-logo {
+    padding: 20px;
+  }
+  .retina-logo {
+    height: 52px;
+  }
+  .retina-logo {
+    width: 188px;
+  }
+  .retina-logo {
+    padding: 0px;
+  }
+  .retina-logo {
+    margin: 0px;
+  }
+  
+  #rev_slider_1_1_wrapper .tp-loader.spinner2 {
+    background-color: #00BCD4 !important;
+  }
+  
+li {
+	padding: 2px;
+}
+  
+h2 {
+	font-size: 24px;
+	text-align: center;
+	text-transform: uppercase;
+}
+  
+h3 {
+	font-size: 18px;
+	text-transform: uppercase;
+}
+  
+p {
+	text-align: justify;
+}
+  
+.relative {
+	position:relative;
+}
+  
+.absolute-text {
+	position:absolute;
+	bottom:-24px;
+	font-size:40px;
+	font-family:'Chakra Petch', sans-serif;
+	color:#FFFFFF;
+	background:rgba(251,251,251,0);
+	background:rgba(0,0,0,1);
+	padding:14px 0px;
+	width:100%;
+	text-align:center;
+}
+
+.absolute-text a {
+	font-size:48px;
+	color:#b92b27;
+}

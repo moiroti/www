@@ -1,0 +1,167 @@
+
+                              MMVE 2018
+
+International Workshop on Immersive Mixed and Virtual Environment Systems
+
+                      Amsterdam, The Netherlands
+          Co-located with ACM Multimedia Systems Conference (MMSys)
+                          June 12-15, 2018
+
+DATES
+-----
+Submission Deadline: March 15, 2018 (2359 PST)
+Notification Date: April, 20, 2018
+Camera Ready: April 27, 2018
+
+
+CALL FOR PAPERS
+---------------
+
+MMVE 2018 marks the 10th year anniversary of the MMVE workshop.
+
+MMVE started 10 years ago with a vision of enabling multi-user
+interactive 3D virtual environments on a massive scale. In recent
+years, technical advances have enabled many new devices, such as head
+mounted displays, wearable sensing devices, gesture-based input
+devices, that increase the level of immersion through how users
+experience and interact with the 3D virtual environment. At the same
+time, wearable displays such as smart glasses and the availability of
+depth-sensing cameras on mobile phones are enabling mixed reality
+applications. While we are moving closer to the vision of MMVE due to
+more users having access to 3D mixed/virtual environments with a
+better experience, the advances also bring new systems research
+challenges and opportunities: There is now more data to sense,
+collect, store, transmit, process, display. At the same time, there
+are tighter constraints on the system performance, such as interaction
+latency, computation power, energy, and bandwidth, due to increased
+immersiveness of the system, miniaturization of sensing and display
+devices, and an increasingly distributed nature of the system. These
+challenges and opportunities provide the systems research community a
+rich set of problems on how operating systems, distributed systems,
+networking systems, programming systems, data management systems,
+embedded systems can better support mixed or 3D virtual environment
+applications.
+
+With this perspective, MMVE is renamed "International Workshop on
+IMmersive Mixed and Virtual Environment Systems.
+
+MMVE will remain a discussion-focused workshop as a forum for
+researchers and practitioners in the field to discuss new ideas and to
+present their latest research work. Being co-located with ACM MMSys, a
+premier conference on multimedia systems, MMVE also provides a unique
+opportunity for researchers in the field, both from academia and
+industry, to gather and interact with systems researchers.
+
+Scope of the Workshop
+
+MMVE 2018 solicits papers related to various systems challenges in
+enabling great user experience in immersive mixed reality systems and
+3D virtual environments. In particular, research papers addressing the
+challenges from the perspective of one or more of the following
+systems aspects:
+
+- Operating systems and middleware: high-performance OS support for
+  capturing, storing, rendering, processing, and transmission of content
+
+- Networking and distributed systems: protocol and architecture for low
+  latency, high throughput data distribution
+
+- Programming systems: systems and tools that support developers of
+  immersive VR/AR applications
+
+- Mobile and embedded systems: support for tight resource constraints;
+  novel hardware/software architecture; sensors and IoT
+
+- Data management systems: support for high-performance data storage and
+retrieval
+
+addressing one or more of the following performance issues:
+
+- Interactivity: provide responsive, near real-time interactions and
+  user experience despite latency or jitter
+
+- Scalability: able to handle many interacting concurrent users,
+  and/or devices
+
+- Consistency: provide consistent views for users, despite the
+  inherent delay in state updates
+
+- Throughput: support high bandwidth transmission or techniques
+  to reduce bandwidth requirements
+
+- Fault tolerance: able to handle failure in one or more of the
+  components
+
+- Security and privacy: allow secure interactions and privacy
+  guarantees
+
+- Resource constraints: support mobile/wearable devices and sensors
+
+regarding multi-modal content:
+
+- 3D data: meshes, point sets, textures etc. that constitute synthesized
+  scenes and objects for mixed and virtual reality environments.
+
+- Multi-sensory data: audio, visual, olfactory, haptic, and taste data
+  that constitute data that are captured from reality and/or synthesized
+  for rendering.
+
+- Environmental data: information captured by other sensors that feed
+  into the immersive application, such as user motion and position
+  or environmental lighting conditions.
+
+Submission Instructions
+
+MMVE 2018 accepts both full papers and short (poster or demo) papers.
+Full paper submissions should be 4-6 pages in length. We expect full
+paper submissions to be the kernel of what will eventually lead to
+full-length papers at high-quality conferences or journals.  Short
+paper submissions should be 2-3 pages in length. We expect short paper
+submissions to either present a work-in-progress idea for discussions
+at the workshop or describe a system suitable for technical
+demonstration at the workshop.
+
+All submissions should be formatted using the standard ACM proceedings
+style. All submissions must be blinded and constitute original,
+unpublished work not under review elsewhere. Submissions will undergo
+a double-blind peer review process and will be selected based on their
+originality, merit, and relevance to the workshop. Accepted papers
+must be presented by one of the authors at the workshop and will be
+archived in ACM Digital Library as part of the ACM MMSys 2018
+proceedings.
+
+Authors of selected papers from MMVE 2018 will be invited to submit an
+extended version of their papers to a special issue of ACM Transactions of
+Multimedia (TOMM).
+
+ORGANIZATION
+------------
+Workshop Chair
+
+  Wei Tsang Ooi, National University of Singapore
+
+Technical Program Committee
+
+  Colin Allison, University of St. Andrews, UK
+  Anand Bhojan, National University of Singapore, Singapore
+  Jean Botev, The University of Luxembourg, Luxembourg
+  Azzedine Boukerche, University of Ottawa, Canada
+  Jacob Chakareski, University of Alabama, USA
+  Alvin Cheung, University of Washington, USA
+  Herman Engelbrecht, Stellenbosch University, South Africa
+  Stefano Ferretti, University of Bologna, Italy
+  Carsten Griwodz, Simula Research Laboratory, Norway
+  Shun Yun Hu, Imonology Inc, Taiwan
+  Pan Hui, Hong Kong University of Science and Technology, Hong Kong
+  Jinyuan Jia, Tongji University, China
+  Joaquin Keller, Orange Labs, France
+  Haricharan Lakshman, Dolby Laboratories, USA
+  Elvis Liu, Nanyang Technological University, Singapore
+  Geraldine Morin, University of Toulouse, France
+  Kevin	Ponto, Wisconsin Institute for Discovery, USA
+  Laura Ricci, University of Pisa, Italy
+  Gregor Schiele, Universität Duisburg-Essen, Germany
+  Ryan Shea, Simon Fraser University, Canada
+  Xueyan Tang, Nanyang Technological University, Singapore
+  Krzysztof Walczak, Poznań University of Economics and Business, Poland
+  Cedric Westphal, University of California Santa Cruz, USA
