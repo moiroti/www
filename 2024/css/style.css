@@ -8,3 +8,30 @@
   font-family: 'Chakra Petch', sans-serif;
   color: var(--logo-color);
 }
+
+.xlarge {
+  font-size: 42pt;
+}
+
+.is-white {
+  color: #FFFFFF;
+}
+
+.has-logo-color {
+  background-color: rgba(0, 188, 212, 0.7);
+}
+
+.hero-background {
+  background-image: url('/2024/img/bg1.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.navbar-item {
+  color: #FFFFFF;
+}
+
+.has-shadow {
+  text-shadow: 0 0 7px #555555;
+}
