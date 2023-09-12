@@ -1,12 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&display=swap');
 
-:root {
-  --logo-color: #00BCD4;
-}
-
 .logo {
   font-family: 'Chakra Petch', sans-serif;
-  color: var(--logo-color);
+  color: #00BCD4;
 }
 
 .xlarge {
@@ -29,8 +25,16 @@
 }
 
 @media screen and (min-width: 1024px) {
-  .navbar-item {
+  .navbar-item, .navbar-link {
     color: #FFFFFF;
+  }
+
+  .navbar-link:not(.is-arrowless)::after {
+    border-color: #FFFFFF;
+  }
+
+  .navbar-dropdown .navbar-item {
+    color: #000000;
   }
 }
 
