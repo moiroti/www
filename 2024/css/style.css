@@ -25,6 +25,10 @@
 }
 
 @media screen and (min-width: 1024px) {
+  a.navbar-item.is-active {
+    background-color: #FAFAFA!important;
+  }
+
   .navbar-item, .navbar-link {
     color: #FFFFFF;
   }
