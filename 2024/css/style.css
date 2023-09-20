@@ -29,8 +29,16 @@
     color: #FFFFFF;
   }
 
+  .navbar-item:hover .navbar-link {
+    color: #485fc7;
+  }
+
   .navbar-link:not(.is-arrowless)::after {
     border-color: #FFFFFF;
+  }
+
+  .navbar-item:hover .navbar-link:not(.is-arrowless)::after {
+    border-color: #485fc7;
   }
 
   .navbar-dropdown .navbar-item {
