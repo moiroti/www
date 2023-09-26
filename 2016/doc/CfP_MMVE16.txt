@@ -1,0 +1,80 @@
+=====================================================================
+CALL FOR PAPERS
+
+
+-= MMVE 2016 =-
+8th International Workshop on Massively Multiuser Virtual Environments
+
+
+at the ACM Multimedia Systems Conference (MMSys)
+
+May 10-13, 2016 
+Klagenfurt am Wörthersee, Austria            
+
+
+http://mocca.uni.lu/MMVE2016/
+=====================================================================
+
+
+Massively Multiuser Virtual Environment (MMVE) systems are spatial simulations that provide real-time human interactions among thousands to millions of concurrent users. MMVEs have experienced phenomenal growth in recent years in the form of massively multiplayer online games (MMOGs) such as World of Warcraft and Lineage, and social communities such as Second Life and Habbo Hotel. The technical aspect of designing, developing, and deploying them is highly interdisciplinary and involves experts from many domains, e.g., graphics, networking, protocol and architecture designs. The MMVE workshop intends to provide a forum for both academic researchers and industry developers to investigate the architectural and system support for MMVEs. By gathering experts under one roof, we wish to discuss their findings, incite collaborations, and move the state of the art forward.
+
+
+The workshop seeks to provide a forum for researchers and practitioners in the field, and will encourage discussions based on the presented papers to identify current and future research topics. We are particularly interested in raising discussions about the following questions:
+1. How is MMVE technology developed for games reused for distributed virtual environment in other domains, such as training?2. How do the life-cycles and payment models of games integrated into social networking systems (Facebook etc.) influence game development?3. How can MMVE technology leverage parallel computing technology, including multicore (Cell, GPU), tight clustering (transactional memory, distributed shared memory) and distributed systems (P2P, Clouds)?The workshop addresses the following MMVE topics:
+- Scalability, the ability to handle at least thousands of concurrent users, interacting via Internet.- Interactivity, how to provide responsive, near real time interactions and user experience despite latency or jitter.- Consistency, providing consistent views for users, despite the inherent delay in state updates.- Persistence, the ability to save and access the world states despite disconnections and failures.- Security and privacy, distributed algorithms allowing secure interactions and privacy guarantees.- Interoperability, integration of multiple systems or providers with common protocols or clients.- Bandwidth restricted (mobile) devices, the integration of mobile devices for nomadic systems.- Self-organizing architectures, load balancing and fault tolerance without manual configurations.- Video, voice and content streaming, also in (mixed) 3D, remote presence, incremental deployment and updating.- Content generation methods, procedural or by users.- Implementation issues, novel approaches to address development challenges, including sociological aspects.
+As an intended focal point of discussion, we particularly solicit contributions related to the various challenges that recent advances in virtual reality (VR) and augmented reality (AR) pose to MMVE systems and architectures.
+
+
+IMPORTANT DATES:
+----------------
+Submission Deadline:  February 5, 2016
+Notification of Acceptance:  March 23, 2016
+Camera Ready Deadline:  April 8, 2016
+Workshop Date:  May 12, 2016 
+
+
+PAPER SUBMISSION:
+-----------------
+We solicit full-size papers (6 pages), as well as extended abstracts for posters (2 pages), covering one of the above or closely related topics. All submissions must be blinded and constitute original, unpublished work not under review elsewhere. Submissions will undergo a double-blind peer review process and will be selected based on their originality, merit and relevance to the workshop. Accepted papers must be presented by one of the authors at the workshop and will be indexed by ACM and included as part of the ACM MMSys 2016 proceedings.
+
+To prepare your paper for submission, please use the ACM SIG Proceedings template. The submission process itself is handled online via our electronic submission system, which can be accessed through the workshop website.
+
+
+CONTACT:
+--------
+For more information and updates please visit the workshop website (http://mocca.uni.lu/MMVE2016/) or contact the chair (jean.botev@uni.lu) directly.
+
+
+GENERAL CHAIR:
+--------------
+Jean Botev,  University of Luxembourg, Luxembourg
+
+
+STEERING COMMITTEE:
+-------------------
+Shun-Yun Hu,  Imonology Inc., Taiwan
+Wei Tsang Ooi,  National University of Singapore, Singapore
+Gregor Schiele,  University of Duisburg-Essen, Germany
+Shervin Shirmohammadi,  University of Ottawa, Canada
+Arno Wacker,  University of Kassel, Germany
+
+
+PROGRAM COMMITTEE:
+------------------
+Maha Abdallah,  University of Paris VI, France
+Dewan T. Ahmed,  University of North Carolina at Charlotte, USA
+Anand Bhojan,  National University of Singapore, Singapore
+Sheng-Wei Chen,  Academia Sinica, Taiwan
+Abdennour El-Rhalibi,  Liverpool John Moores University, United Kingdom
+Herman Engelbrecht,  University of Stellenbosch, South Africa
+Stefano Ferretti,  University of Bologna, Italy
+Carsten Griwodz,  University of Oslo, Norway
+Aaron Harwood,  University of Melbourne, Australia
+Alexandru Iosup,  TU Delft, Netherlands
+Crista Lopes,  University of California, USA
+Jauvane C. de Oliveira,  LNCC, Brasil
+Peter Quax,  Hasselt University, Belgium
+Laura Ricci,  University of Pisa, Italy
+Steffen Rothkugel,  University of Luxembourg, Luxembourg
+Gwendal Simon,  Telecom Bretagne, France
+Peter Sturm,  University of Trier, Germany
