@@ -10,7 +10,6 @@ body {
 
 .logo {
   font-family: 'Chakra Petch', sans-serif;
-  color: #00BCD4;
 }
 
 .has-separator-top {
@@ -27,10 +26,6 @@ body {
   display: block;;
 }
 
-.title {
-  color: #00BCD4;
-}
-
 .xlarge {
   font-size: 42pt;
 }
@@ -39,8 +34,12 @@ body {
   color: #FFFFFF;
 }
 
-.has-logo-color {
+.header-background {
   background-color: rgba(0, 188, 212, 0.7);
+}
+
+.has-logo-color {
+  color: #00BCD4;
 }
 
 .hero-background {
