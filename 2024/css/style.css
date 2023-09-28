@@ -13,6 +13,20 @@ body {
   color: #00BCD4;
 }
 
+.has-separator-top {
+  border-top: 1px solid #F2F2F2;
+}
+
+.with-separator::after {
+  content: "";
+
+  border-bottom: 2px solid #00BCD4;
+  width: 5rem;
+  margin-top: .5rem;
+
+  display: block;;
+}
+
 .title {
   color: #00BCD4;
 }
