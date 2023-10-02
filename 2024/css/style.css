@@ -53,6 +53,12 @@ body {
   padding: 1.5rem 1.5rem 3rem;
 }
 
+.button.is-default {
+  background-color: #00BCD4;
+  border-color: transparent;
+  color: #FFFFFF;
+}
+
 @media screen and (max-width: 1024px) {
   .hero-background {
     background-image: url('/2024/img/bg_small.webp');
