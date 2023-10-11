@@ -8,6 +8,10 @@ body {
   background-color: #FFFFFF;
 }
 
+sup {
+  vertical-align: text-top;
+}
+
 .logo {
   font-family: 'Chakra Petch', sans-serif;
 }
