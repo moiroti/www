@@ -102,3 +102,42 @@ sup {
 .has-shadow {
   text-shadow: 1px 1px 3px #555555;
 }
+
+.session-title {
+  font-size: 18pt;
+  margin-bottom: .2em;
+}
+
+.session-title span:first-child {
+  font-style: italic;
+  font-weight: lighter;
+  width: 4.25rem;
+  display: inline-block;
+}
+
+.session-title span:last-child {
+  font-weight: bold;
+  margin-left: .25em;
+  font-family: 'Chakra Petch', sans-serif;
+  color: #00BCD4;
+}
+
+p.chaired-by {
+  font-size: 14pt;
+  margin-left: 1em;
+  font-weight: lighter;
+}
+
+.paper {
+  margin-bottom: 1em;
+}
+
+.paper p:first-child {
+  font-size:16pt;
+  font-weight: bold;
+  margin: 0 0 .5em 1.5em;
+}
+
+.paper p:last-child {
+  margin: 0 0 0 2.5em;
+}
