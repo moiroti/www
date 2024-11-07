@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&display=swap');
+
+html {
+  background-color: #FAFAFA;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+sup {
+  vertical-align: text-top;
+}
+
+.logo {
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+.has-separator-top {
+  border-top: 1px solid #F2F2F2;
+}
+
+.with-separator::after {
+  content: "";
+
+  border-bottom: 2px solid #00BCD4;
+  width: 5rem;
+  margin-top: .5rem;
+
+  display: block;;
+}
+
+.xlarge {
+  font-size: 38pt;
+}
+
+.is-white {
+  color: #FFFFFF;
+}
+
+.header-background {
+  background-color: rgba(0, 188, 212, 0.7);
+}
+
+.has-logo-color {
+  color: #00BCD4;
+}
+
+.hero-background {
+  background-image: url('/2024/img/bg.webp');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.small-padding {
+  padding: 1.5rem 1.5rem 3rem;
+}
+
+.button.is-default {
+  background-color: #00BCD4;
+  border-color: transparent;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width: 1024px) {
+  .hero-background {
+    background-image: url('/2024/img/bg_small.webp');
+  }
+
+  .content figure {
+    margin: 0 0 1em 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  a.navbar-item.is-active {
+    background-color: #FAFAFA!important;
+  }
+
+  .navbar-item, .navbar-link {
+    color: #FFFFFF;
+  }
+
+  .navbar-item:hover .navbar-link {
+    color: #485fc7;
+  }
+
+  .navbar-link:not(.is-arrowless)::after {
+    border-color: #FFFFFF;
+  }
+
+  .navbar-item:hover .navbar-link:not(.is-arrowless)::after {
+    border-color: #485fc7;
+  }
+
+  .navbar-dropdown .navbar-item {
+    color: #000000;
+  }
+}
+
+.has-shadow {
+  text-shadow: 1px 1px 3px #555555;
+}
+
+.session-title {
+  font-size: 18pt;
+  margin-bottom: .2em;
+}
+
+.session-title span:first-child {
+  font-style: italic;
+  font-weight: lighter;
+  width: 4.25rem;
+  display: inline-block;
+}
+
+.session-title span:last-child {
+  font-weight: bold;
+  margin-left: .25em;
+  font-family: 'Chakra Petch', sans-serif;
+  color: #00BCD4;
+}
+
+p.chaired-by {
+  font-size: 14pt;
+  margin-left: 1em;
+  font-weight: lighter;
+}
+
+.paper {
+  margin-bottom: 1em;
+}
+
+.paper p:first-child {
+  font-size:16pt;
+  font-weight: bold;
+  margin: 0 0 .5em 1.5em;
+}
+
+.paper p:last-child {
+  margin: 0 0 0 2.5em;
+}
